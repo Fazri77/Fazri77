@@ -1,5 +1,5 @@
 ### Hi there 👋 It's me !!! <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Fazri.....;Nice+to+see+you....!&size=25">
-![Fazri77](img/Fazri77.png)
+![Fazri77](img/Fazri77_Git.png)
 
 
 ## 🎮 RECENT PLAYED GAMESS
