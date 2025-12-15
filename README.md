@@ -10,4 +10,3 @@
 ## Connect With Me:
 <p> Social Media </p>
 
-![https://www.facebook.com/okatzo.o](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.instagram.com/okatzo_cc0](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
