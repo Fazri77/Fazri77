@@ -1,14 +1,21 @@
- ![Fazri77](img/rover-wuthering-waves.gif)
+<p align="center">
+  <img src="img/rover-wuthering-waves.gif" width="100%" style="max-width: 100%; display: block; border-radius: 10px; alt="rover">
+</p>
+
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Fazri.....;Nice+to+see+you....!&size=25">
+</p>
+
+<p align="center">Hi I'm Fazri And I Love Watching Anime And Gaming, Nice To Meet You!!
+I'm A Beginner Web Developer. I Want To Become A Full Stack Developer :3 </p>
 
 
 
-### Hi there 👋 It's me !!! <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Fazri.....;Nice+to+see+you....!&size=25">
-![Fazri77](img/Fazri77_Git.png)
 
 
-## 🎮 RECENT PLAYED GAMESS
-
-<img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" /> 
-
-
-
+<p align="right">
+  <img 
+    src="https://komarev.com/ghpvc/?username=fazri77&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="revansp" 
+  />
