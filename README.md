@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://tenor.com/gQKLxCp5GOJ.gif" 
+    src="img/rover-wutherin-waves.gif" 
     alt="rover-wuthering-waves-gif"
     width="100%" 
     style="max-width: 100%; display: block; border-radius: 10px;"
