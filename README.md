@@ -4,11 +4,15 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Fazri.....;Nice+to+see+you....!&size=25">
+ <img 
+   src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Fazri.....;Nice+to+see+you....!&size=25"
+   >
+  <h1 align="center"> Hi 👋 Everyone </h1>
 </p>
 
 <p align="center">Hi I'm Fazri And I Love Watching Anime And Gaming, Nice To Meet You!!
 I'm A Beginner Web Developer. I Want To Become A Full Stack Developer :3 </p>
+
 
 
 
