@@ -15,7 +15,14 @@ I'm A Beginner Web Developer. I Want To Become A Full Stack Developer :3 </p>
 
 
 
-
+<p align="center">
+  <img 
+    src="img/Aemeth.mp4"
+    alt="Aemeth"
+    width="100%" 
+    style="max-width: 100%; display: block; border-radius: 10px;"
+  />
+</p>
 
 
 <p align="right">
