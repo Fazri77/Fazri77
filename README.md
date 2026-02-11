@@ -13,16 +13,11 @@
 <p align="center">I'm Fazri And I Love Watching Anime And Gaming, Nice To Meet You!!
 I'm A Beginner Web Developer. I Want To Become A Full Stack Developer :3 </p>
 
-
-
 <p align="center">
-  <img 
-    src="img/Aemeth.mp4"
-    alt="Aemeth"
-    width="100%" 
-    style="max-width: 100%; display: block; border-radius: 10px;"
-  />
+  <img src="img/0211.mp4" width="100%" style="max-width: 100%; display: block; border-radius: 10px; alt="rover">
 </p>
+
+
 
 
 <p align="right">
